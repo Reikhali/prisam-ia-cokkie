@@ -1,0 +1,7 @@
+{
+  "name": "Indicador Ventilador Preview",
+  "description": "A preview application for the Ventilador Trading Indicator, featuring simulated charts, advanced analytics panels, and installation scripts.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
